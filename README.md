@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SlightlyQT/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/SlightlyQT/DSA/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/SlightlyQT/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
