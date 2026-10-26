@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/SlightlyQT/DSA/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/SlightlyQT/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SlightlyQT/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/SlightlyQT/DSA/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
