@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SlightlyQT/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SlightlyQT/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/SlightlyQT/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -12,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SlightlyQT/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/SlightlyQT/DSA/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/SlightlyQT/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SlightlyQT/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/SlightlyQT/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
