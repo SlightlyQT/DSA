@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/SlightlyQT/DSA/tree/master/2409-count-days-spent-together) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
