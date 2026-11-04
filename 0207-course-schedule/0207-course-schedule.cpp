@@ -1,40 +1,35 @@
 class Solution {
 public:
 
-    bool dfs(vector<vector<int>>& adj, vector<int>& visited, int vertex){
-        if (visited[vertex] == 1) {
-            return false;
-        }
-        if (visited[vertex] == 2) {
+    bool cycle(vector<vector<int>>& coursemap, vector<int>& visited, int node){
+        if (visited[node]==1){
             return true;
         }
-        
-        visited[vertex] = 1;
-
-        for (int next : adj[vertex]) {
-            if (!dfs(adj, visited, next)) {
-                return false;
+        if (visited[node]==2){
+            return false;
+        }
+        visited[node] = 1;
+        for (int x : coursemap[node]){
+            if (cycle(coursemap, visited, x)){
+                return true;
             }
         }
-        visited[vertex] = 2;
-
-        return true;
+        visited[node]=2;
+        return false;
     }
 
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        vector<int> visited(numCourses, -1);
-        for (vector<int> pre : prerequisites){
-            adj[pre[0]].push_back(pre[1]);
-        }
-        for (int i=0; i<adj.size(); i++){
-            if (visited[i]==-1){
-                if(!dfs(adj, visited, i)){
-                    return false;
-                }
-            }
+        vector<vector<int>> coursemap(numCourses);
+        vector<int> visited(numCourses, 0);
+        for (auto x : prerequisites){
+            coursemap[x[0]].push_back(x[1]);
         }
 
+        for (int i=0; i<numCourses; i++){
+            if (cycle(coursemap, visited, i)){
+                return false;
+            }
+        }
         return true;
     }
 };
