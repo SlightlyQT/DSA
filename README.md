@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SlightlyQT/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SlightlyQT/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SlightlyQT/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/SlightlyQT/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SlightlyQT/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -39,22 +40,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SlightlyQT/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
