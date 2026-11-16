@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/SlightlyQT/DSA/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/SlightlyQT/DSA/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SlightlyQT/DSA/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/SlightlyQT/DSA/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/SlightlyQT/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SlightlyQT/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SlightlyQT/DSA/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/SlightlyQT/DSA/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SlightlyQT/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SlightlyQT/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/SlightlyQT/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
